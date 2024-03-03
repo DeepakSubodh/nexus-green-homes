@@ -2736,7 +2736,7 @@ main.-menuSidebarMargin {
 }
 
 .headerMenu__item + * {
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .headerMenu__item a {
